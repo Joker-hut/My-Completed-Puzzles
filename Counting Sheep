@@ -10,4 +10,4 @@ function countSheeps(sheep) {
                                    
     }
 
-console.log(countSheeps([true, true, true, false, false, true]));
+console.log(countSheeps([true, true, true, false, false, true])); //Returns 4
